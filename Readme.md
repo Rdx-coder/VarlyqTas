@@ -40,8 +40,7 @@ Before you begin, ensure you have met the following requirements:
  Clone the repository:
 
  bash
-   git clone https://github.com/yourusername/your-api-project.git
-   cd your-api-project
+   git clone https://github.com/Rdx-coder/VarlyqTas.git
 
 ## Install dependencies:
 npm install
