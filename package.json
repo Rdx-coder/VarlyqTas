@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "axios": "^1.5.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "ioredis": "^5.3.2",
+    "joi": "^17.10.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.5.0",
+    "uuid": "^9.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "varlyq",
+  "description": "A Node.js, Express.js, MongoDB API with JWT Authentication and Redis Cache.",
+  "version": "1.0.0",
+  "main": "generate-secrets.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
