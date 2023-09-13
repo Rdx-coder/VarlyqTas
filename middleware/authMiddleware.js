@@ -7,7 +7,7 @@ module.exports = (req, res, next) => {
 
   // Check if token is missing
   if (!token) {
-    return res.status(401).json({ message: 'Authentication failed. Token is missing.' });
+    return res.status(401).json({ message: 'Authentication failed.' });
   }
 
   try {
